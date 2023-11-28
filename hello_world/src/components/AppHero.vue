@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <h1>La mia prima app con Vite!</h1>
+    <p>Ciao! Gioca con me!</p>
 </template>
 
 <style scoped></style>
